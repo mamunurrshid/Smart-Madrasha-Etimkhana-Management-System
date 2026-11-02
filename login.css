@@ -1,0 +1,18 @@
+h1{
+    background-color: red;
+    color: rgb(red green rgb(26, 26, 215) / alpha);
+    text-align: center;
+    
+}
+.class{
+    background-color: rgb(246, 196, 130);
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 40px 40px 400px 20px;
+    border-radius:color rgb(95, 3, 3);
+}
+button{
+    color :red;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
