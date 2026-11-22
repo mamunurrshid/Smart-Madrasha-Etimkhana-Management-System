@@ -156,6 +156,34 @@ body {
     flex: 1 1 48%;
 }
 
+.account-form {
+    display: grid;
+    gap: 10px;
+}
+
+.account-form label {
+    color: var(--text);
+    font-weight: 700;
+}
+
+.account-form input {
+    width: 100%;
+    min-height: 44px;
+    padding: 10px 12px;
+    border: 1px solid #cbd5d1;
+    border-radius: 8px;
+    font: inherit;
+}
+
+.account-form input:focus-visible {
+    border-color: var(--primary);
+    outline: 2px solid rgba(22, 101, 52, 0.18);
+}
+
+.account-form button {
+    margin-top: 8px;
+}
+
 .hero-label {
     display: inline-block;
     margin-bottom: 14px;
